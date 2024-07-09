@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/landing-page-najmil/static/css/main.66fbb5df.css",
-    "main.js": "/landing-page-najmil/static/js/main.52b2e0e8.js",
-    "static/js/787.fa2ce252.chunk.js": "/landing-page-najmil/static/js/787.fa2ce252.chunk.js",
+    "main.css": "/landing-page-najmil/static/css/main.39a6936b.css",
+    "main.js": "/landing-page-najmil/static/js/main.208c5fba.js",
+    "static/js/787.a394740f.chunk.js": "/landing-page-najmil/static/js/787.a394740f.chunk.js",
     "static/media/color-sharp.png": "/landing-page-najmil/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/landing-page-najmil/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/najmil.png": "/landing-page-najmil/static/media/najmil.55706bd0cffdebc30b27.png",
@@ -14,8 +14,11 @@
     "static/media/project-img1.png": "/landing-page-najmil/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/to-do-list2.png": "/landing-page-najmil/static/media/to-do-list2.7320571fd70c8cdc47f0.png",
     "static/media/form-regist.png": "/landing-page-najmil/static/media/form-regist.59da6c14113b4b712ddc.png",
+    "static/media/p3k.png": "/landing-page-najmil/static/media/p3k.be594a00383e92798f63.png",
+    "static/media/hrga.png": "/landing-page-najmil/static/media/hrga.4de4336ac29c0ff47b11.png",
     "static/media/project-img2.png": "/landing-page-najmil/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/project-img3.png": "/landing-page-najmil/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/ipp.png": "/landing-page-najmil/static/media/ipp.7761de8bb6a70bccd253.png",
     "static/media/calculator.png": "/landing-page-najmil/static/media/calculator.bc6ce287269600910840.png",
     "static/media/revicons.eot": "/landing-page-najmil/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/landing-page-najmil/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -32,12 +35,12 @@
     "static/media/arrow1.svg": "/landing-page-najmil/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/logo-css3.svg": "/landing-page-najmil/static/media/logo-css3.92216eb096ecc9e21858a61344127ba7.svg",
     "static/media/logo-html5.svg": "/landing-page-najmil/static/media/logo-html5.f8c63baa370bb65297bbcc33f9a61bdb.svg",
-    "main.66fbb5df.css.map": "/landing-page-najmil/static/css/main.66fbb5df.css.map",
-    "main.52b2e0e8.js.map": "/landing-page-najmil/static/js/main.52b2e0e8.js.map",
-    "787.fa2ce252.chunk.js.map": "/landing-page-najmil/static/js/787.fa2ce252.chunk.js.map"
+    "main.39a6936b.css.map": "/landing-page-najmil/static/css/main.39a6936b.css.map",
+    "main.208c5fba.js.map": "/landing-page-najmil/static/js/main.208c5fba.js.map",
+    "787.a394740f.chunk.js.map": "/landing-page-najmil/static/js/787.a394740f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66fbb5df.css",
-    "static/js/main.52b2e0e8.js"
+    "static/css/main.39a6936b.css",
+    "static/js/main.208c5fba.js"
   ]
 }
