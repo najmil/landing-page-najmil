@@ -62,7 +62,7 @@ export const Banner = () => {
                         <br />
                     </span>
                 </h1>
-                  <p>Undergraduate student from University of Singaperbangsa Karawang majoring in informatics with prior internship experience as software engineer in tech company. Seeking for front end development or website development role to begin career in technology areas or technology institutions. Able to develop program with several languages with experiences through various projects in the past internship and projects that obtained from the tasks at university and successfully maintain above 3.7 GPA. </p>
+                  <p>Fresh graduate from University of Singaperbangsa Karawang majoring in informatics with prior internship experiences as software engineer in tech company and web developer in industrial company. Able to develop program with several languages with experiences through various projects in the past internship and projects that obtained from the tasks at university and successfully maintain above 3.7 GPA. </p>
                   {/* <button href="#footer" onClick={() => onUpdateActiveLink('footer')}>Let’s Connect <ArrowRightCircle size={25} /></button> */}
               </div>}
             </TrackVisibility>

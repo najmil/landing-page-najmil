@@ -3,6 +3,9 @@ import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/project-img1.png";
 import projImg2 from "../assets/img/project-img2.png";
 import projImg3 from "../assets/img/project-img3.png";
+import p3k from "../assets/img/p3k.png";
+import hrga from "../assets/img/hrga.png";
+import ipp from "../assets/img/ipp.png";
 import todolist from "../assets/img/to-do-list2.png";
 import catatanUang from "../assets/img/catatan-keuangan.png";
 import calculator from "../assets/img/calculator.png";
@@ -15,6 +18,22 @@ import colorSharp2 from "../assets/img/color-sharp2.png";
 export const Projects = () => {
 
   const projects = [
+    {
+      title: "P3K Checker",
+      imgUrl: p3k,
+    },
+    {
+      title: "Business Trip Authorization Form",
+      imgUrl: hrga,
+    },
+    {
+      title: "Suplies Requisition Form",
+      imgUrl: hrga,
+    },
+    {
+      title: "Individual Performance Planning and Performance Appraisal",
+      imgUrl: ipp,
+    },
     {
       title: "To Do List",
       imgUrl: todolist,
